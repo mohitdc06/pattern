@@ -1,1 +1,1 @@
-Kpattern.
+Kpattern
